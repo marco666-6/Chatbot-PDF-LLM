@@ -1,34 +1,30 @@
 
-# Build an Image Style Transfer Tool using CycleGANs
-## Author : Roxanne Li
-#### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of "Build an Image Style Transfer Tool using CycleGANs"
+# Build a Chatbot to Analyze PDF Files using LLM
+## Author : Sina Nazeri
+#### Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of "Build a Chatbot to Analyze PDF Files using LLM"
 ### Mentee info
 #### Name : Marco Philips Sirait
 #### Program : IBM Advance AI (MSIB Batch 6) with Infinite Learning
 
 ---
 
-Bahasa :
+Bahasa Inggris / ENG / English:
 ---
-Artists like Claude Monet are recognized for the unique styles of their works, such as the unique colour scheme and brush strokes. These are hard to be imitated by normal people, and even for professional painters, it will not be easy to produce a painting whose style is Monet-esque. However, thanks to the invention of Generative Adversarial Networks (GANs) and their many variations, Data Scientists and Machine Learning Engineers can build and train deep learning models to bring an artist's peculiar style to your photos. 
+This is a project where we learn to create an AI Chatbot to analyze a PDF file that you upload as the main feature of this Chatbot, natural language processing, in the sense that (NLP) used in this Chatbot is an LLM API from OpenAI GPT 3.5 which will be the language processor of the uploaded PDF.
+---
 
-In this project, you will be guided through building a style transfer tool using CycleGAN to "translate" the photos in your album into paintings that are Monet-esque!
+Bahas Indonesia / IDN:
+---
+Ini adalah proyek tempat kami belajar membuat sebuah Chatbot AI untuk menganalisis sebuah file PDF yang kamu upload sebagai fitur utama dari Chatbot ini, pemrosesan bahasa natural, dalam artian (NLP) yang dipakai dalam Chatbot ini adalah sebuah API LLM dari OpenAI GPT 3.5 yang akan menjadi pemroses bahasa dari PDF yang di upload.
 ---
 ---
 ---
 
 # Purposes / Tujuan
 ENG:
-Welcome to "Build an Image Style Transfer Tool using CycleGANs"
-
-## Objectives
-After completing this project you will be able to:
-
-*   Describe the novelty about CycleGANs
-*   Understand Cycle Consistency Loss
-*   Describe the complicated architecture of a CycleGAN
-*   Gain good practices of training deep learning models
-*   Implement a pre-trained CycleGAN for image style transfer
+Welcome to "Build a Chatbot to Analyze PDF Files using LLM," a a comprehensive course for a deeper understanding of chatbots, web application development using Flask and Python, as well as the use of the LangChain framework in interpreting and responding to different types of user input. More importantly, you will successfully build a comprehensive chatbot application that is sure to impress.
+IDN:
+Selamat datang di "Build a Chatbot to Analyze PDF Files using LLM" sebuah kursus komprehensif untuk pemahaman yang lebih mendalam tentang chatbot, pengembangan aplikasi web menggunakan Flask dan Python, serta penggunaan kerangka kerja LangChain dalam menginterpretasikan dan merespons berbagai jenis input pengguna. Lebih penting lagi, Anda akan berhasil membangun aplikasi chatbot yang komprehensif dan pasti akan memberikan kesan yang mengesankan.
 
 ## Target Audience / Target Audiens:
 ENG:
